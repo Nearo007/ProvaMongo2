@@ -1,0 +1,20 @@
+[
+    {
+      "ID": 1,
+      "Nome_Funcionario": "Clédson Silva",
+      "Cargo": "Desenvolvedor",
+      "Departamento_ID": 1
+    },
+    {
+      "ID": 2,
+      "Nome_Funcionario": "Cleidson Matsuda",
+      "Cargo": "Analista de Dados",
+      "Departamento_ID": 2
+    },
+    {
+      "ID": 3,
+      "Nome_Funcionario": "Gil Wons",
+      "Cargo": "Gerente de Projetos",
+      "Departamento_ID": 1
+    }
+]

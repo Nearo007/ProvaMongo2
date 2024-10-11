@@ -1,0 +1,17 @@
+[
+    {
+        "ID": 1,
+        "Nome_Projeto": "Sistemas de Vendas",
+        "Departamento_ID": 1
+    },
+    {
+        "ID": 2,
+        "Nome_Projeto": "Dashboard Financeiro",
+        "Departamento_ID": 2
+    },
+    {
+        "ID": 3,
+        "Nome_Projeto": "Sistema de Qualidade",
+        "Departamento_ID": 3
+    }
+]

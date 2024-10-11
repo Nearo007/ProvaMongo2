@@ -1,0 +1,22 @@
+[
+    {
+        "Funcionario_ID": 1,
+        "Habilidade_ID": 1,
+        "Nivel": "Avançado"
+    },
+    {
+        "Funcionario_ID": 1,
+        "Habilidade_ID": 2,
+        "Nivel": "Intermediário"
+    },
+    {
+        "Funcionario_ID": 2,
+        "Habilidade_ID": 2,
+        "Nivel": "Avançado"
+    },
+    {
+        "Funcionario_ID": 3,
+        "Habilidade_ID": 3,
+        "Nivel": "Avançado"
+    }
+]
